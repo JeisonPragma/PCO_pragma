@@ -1,0 +1,35 @@
+{
+    "name": "aleteo_arquetipo",
+    "short_name": "aleteo_arquetipo",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#28022b",
+    "theme_color": "#df11f2",
+    "description": "Documento arquetipo a su maxima expresión.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
